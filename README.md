@@ -1,4 +1,4 @@
 # AzureFunctionDemos
 
 AzureFunctionAlertToTeams.ps1 Video Link:
-(https://youtu.be/MuNmXMWvjT0)
+https://youtu.be/MuNmXMWvjT0
