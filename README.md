@@ -1,4 +1,6 @@
 # AzureFunctionDemos
 
-AzureFunctionAlertToTeams.ps1 Video Link:
+AzureFunctionAlertToTeams Video Link:
 https://youtu.be/MuNmXMWvjT0
+
+AzureFunctionPowerShellHybridConnection Video Link:
