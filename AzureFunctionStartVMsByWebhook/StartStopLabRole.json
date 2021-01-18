@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "roleName": "Azure Start Stop VM Role",
+    "Description": "Role to start and stop VM's",
+    "AssignableScopes": ["/subscriptions/<SubscriptionID>"],
+    "permissions": [
+      {
+        "Actions": [
+          "Microsoft.Compute/virtualMachines/read",
+          "Microsoft.Compute/virtualMachines/start/action",
+          "Microsoft.Compute/virtualMachines/deallocate/action"
+        ],
+        "NotActions": [],
+        "dataActions": [],
+        "notDataActions": []
+      }
+    ]
+  }
+}
