@@ -1,13 +1,16 @@
 # AzureFunctionDemos
 
-AzureFunctionAlertToTeams Video Link:
+AlertToTeams Video Link:
 https://youtu.be/MuNmXMWvjT0
 
-AzureFunctionPowerShellHybridConnection Video Link:
+PowerShellHybridConnection Video Link:
 https://youtu.be/jwVyFgUeRaA
 
-AzureFunctionsStartVMsByWebhook Video link:
+StartVMsByWebhook Video link:
 https://youtu.be/OzKOqTDz1FE
 
-AzureFunctionAutoAddTags Video Link:
+AutoAddTags Video Link:
 https://youtu.be/_3QJ2k_8zuE
+
+AutoStopPersonalHostPool Video Link:
+https://youtu.be/8lwLisTOnRs
